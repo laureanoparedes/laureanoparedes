@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laureanoparedes
 - 👀 Right now I'm interested in Frontend Web Development
-- 🌱 Currently learning HTML, CSS & JavaScript. Hopefully soon enough I'll start with Python & Django for some Backend functionality
+- 🌱 Currently learning HTML, CSS & JavaScript.
 - 💞️ I'm studying Computer Science at Universidad Nacional de La Plata
 - 📫 You can find me on Twitter @lparedes94  or LinkedIn /in/laureanoparedes
 
